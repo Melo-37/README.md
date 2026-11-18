@@ -25,10 +25,6 @@ Sou dedicado, atencioso, colaborativo e aberto a novos desafios. Estou no iníci
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-## 📂 Projetos
-
-- [Nome do projeto](link-do-repositorio): breve descrição do que ele faz
-
 ## 📫 Contato
 
 - LinkedIn: www.linkedin.com/in/melo022687288
